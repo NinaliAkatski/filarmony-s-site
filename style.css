@@ -1,0 +1,145 @@
+.link{
+
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 30px;
+	margin-top: 0px;
+	display: flex;
+	padding-top: 20px;
+}
+.basic{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	padding-top: 0px;
+
+}
+.slogan{
+	width: 500px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(citata.jpg);
+	background-size: 100% 100%;
+
+}
+.event{
+	background:purple;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	height: 450px;
+	background-image: url(ork.jpg);
+	background-size: 100% 100%;
+	display: flex;
+}
+h1{
+	
+	margin-left: 120px;
+	margin-top: 0px;
+	padding-top: 150px;
+	color: #fbfbfb;
+	font-size: 40px;
+	margin-right: 0px;
+}
+a{
+	color: black;
+	margin-top: 150px;
+	margin-left: 900px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.news{
+	margin-top: 10px;
+}
+h2{
+	margin-left: 30px;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.img1{
+	height: 350px;
+	width: 250px;
+	background-image: url(Фабио.jpg);
+	background-size: 100% 100%;
+	margin-left: 50px;
+	display: flex;
+}
+img{
+	size: 100% 100%;
+}
+.inf{
+	
+	margin-left: 50px;
+	height: 350px;
+
+}
+.text{
+	margin-left:50px;
+	width: 800px;
+	margin-top: 50px;
+}
+.h1{
+	padding-top: 0px;
+}
+h3{
+	margin-left: 300px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	margin-bottom: 5px;
+}
+.gy{
+	height: 1px;
+	width: 360px;
+	background: grey;
+	margin-left: 280px;
+}
+.gre{
+	background:red;
+	margin-top: 
+}
+.img2{
+	background-image: url(григорий.jpg);
+	height: 350px;
+	width: 250px;
+	background-size: 100% 100%;
+	margin-left: 40px;
+}
+.top_links{
+	margin-left: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+.flex{
+	display: flex;
+}
+.line{
+	width: 80px;
+	height: 450px;
+	background: grey;
+	opacity: .3;
+}
+.event0{
+	background:purple;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	height: 450px;
+	background-image: url(ber.jpg);
+	background-size: 100% 100%;
+	display: flex;
+}
+.line0{
+	width: 80px;
+	height: 450px;
+	background: grey;
+	opacity: .3;
+	margin-left: 75px;
+}
+}
